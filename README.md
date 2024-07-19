@@ -1,7 +1,7 @@
 # BradyG2117.github.io
 
 ### Education
-Collect Graduate: 2020
+College Graduate: 2020
 Miami University - Associates in Business Management
 
 Highschool Graduate: 2018
