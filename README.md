@@ -11,7 +11,7 @@ Monroe High School - Diploma
 Google Data Analytics Professional Certificate
 
 ### Skills
-- Microsoft Excel
+- Excel
 - SQL
 - Tableau
 - Power BI
