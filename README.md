@@ -18,6 +18,7 @@ Monroe High School - Diploma
 
 ### Work Experience
 **Midwest Shooting Center** - 5/23/23 - Current
+
 _Inventory Compliance Manager_
 - Performed Sales Analysis for retail products.
 - Helped create universal/staple product list for all store locations using product sales analysis.
@@ -29,6 +30,7 @@ _Inventory Compliance Manager_
 - Led staff training initiatives to educate employees on OSHA & ATF standards.
 
 **Integrity Express Logistics** - 10/4/2021 - 5/4/2023
+
 _Logistics Coordinator_
 - Sold & negotiated truck, trailer & equipment lanes for power only transportation.
 - Worked closely with the largest semi truck trailer manufacturers in North America relocating equipment.
@@ -38,6 +40,7 @@ _Logistics Coordinator_
 - Experienced with Microsoft Applications & Transportation Management Systems (TMS)
 
 **The Harris Product Group** - 12/7/2020 - 9/20/2021
+
 _Warehouse Associate_
 - Material handler & order fulfilment.
 - Organized and led weekly inventory interstore transfers.
