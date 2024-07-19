@@ -10,6 +10,12 @@ Monroe High School - Diploma
 ### Certifications
 Google Data Analytics Professional Certificate
 
+### Skills
+- Microsoft Excel
+- SQL
+- Tableau
+- Power BI
+
 ### Work Experience
 **Midwest Shooting Center** - 5/23/23 - Current
 Inventory Compliance Manager
