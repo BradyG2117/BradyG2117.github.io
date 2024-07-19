@@ -1,4 +1,4 @@
-# Brady Griffis Portfolio
+# Brady Griffis' Resume/Portfolio
 
 ### Education
 College Graduate: 2020
