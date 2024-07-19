@@ -8,7 +8,7 @@ Highschool Graduate: 2018
 Monroe High School - Diploma
 
 ### Certifications
-Google Data Analytics Professional Certificate
+- Google Data Analytics Professional Certificate
 
 ### Skills
 - Excel
