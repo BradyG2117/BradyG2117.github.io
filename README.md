@@ -13,8 +13,8 @@ Google Data Analytics Professional Certificate
 ### Work Experience
 **Midwest Shooting Center** - 5/23/23 - Current
 Inventory Compliance Manager
-- Performed Sales Analysis for retail product.
-- Helped create universal/staple product list for all store locations.
+- Performed Sales Analysis for retail products.
+- Helped create universal/staple product list for all store locations using product sales analysis.
 - Managed purchasing for location based on inventory levels & sales analysis.
 - Performed weekly OSHA & ATF Inspections to ensure adherences to all safety & regulatory standards both at the state and federal level.
 - Managed all aspects of inventory - receiving/shipping product, merchandising, pricing and vendor returns.
