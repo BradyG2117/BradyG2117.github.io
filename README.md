@@ -3,6 +3,7 @@
 ### Education
 Collect Graduate: 2020
 Miami University - Associates in Business Management
+
 Highschool Graduate: 2018
 Monroe High School - Diploma
 
