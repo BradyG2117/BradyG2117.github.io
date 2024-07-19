@@ -1,4 +1,4 @@
-# BradyG2117.github.io
+# Brady Griffis Portfolio
 
 ### Education
 College Graduate: 2020
