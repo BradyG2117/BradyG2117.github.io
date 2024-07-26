@@ -50,4 +50,4 @@ _Warehouse Associate_
 - Experienced in SAP.
 
 ### Projects
-Google Data Analytics Capstone Project!
+
