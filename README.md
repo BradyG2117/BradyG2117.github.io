@@ -24,8 +24,8 @@ _Inventory Compliance Manager_
 - Managed purchasing for location based on inventory levels & sales analysis.
 - Performed weekly OSHA & ATF Inspections to ensure adherences to all safety & regulatory standards both at the state and federal level.
 - Managed all aspects of inventory - receiving/shipping product, merchandising, pricing and vendor returns.
-- Managed inventory shrink through inventory management strategies & correct variances.
-- Final auditor for all 4473 Federal Firearm forms to guarntee compliance with legal requirements.
+- Managed inventory shrink through inventory management strategies & corrected variances.
+- Final auditor for all 4473 Federal Firearm forms to guarantee compliance with legal requirements.
 - Led staff training initiatives to educate employees on OSHA & ATF standards.
 
 **Integrity Express Logistics** - 10/4/2021 - 5/4/2023
@@ -47,6 +47,4 @@ _Warehouse Associate_
 - Completed inventory cycle counts to ensure accurate inventory records.
 - Assisted in receiving product & restocking warehouse.
 - Experienced in SAP.
-
-### Projects
 
