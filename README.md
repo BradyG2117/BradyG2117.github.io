@@ -14,6 +14,7 @@ Monroe High School - Diploma
 - Excel
 - SQL
 - Tableau
+- AI
 
 ### Work Experience
 **Midwest Shooting Center** - 5/23/23 - Current
