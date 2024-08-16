@@ -35,14 +35,14 @@ _Logistics Coordinator_
 - Sold & negotiated truck, trailer & equipment lanes for power only transportation.
 - Worked closely with the largest semi truck trailer manufacturers in North America relocating equipment.
 - Communicated with customers and clients on a daily basis ensuring high satisfaction
-- Created all rate confirmations, bill of ladings and proof of deliveres for team.
+- Created all rate confirmations, bill of ladings and proof of deliveries for the team.
 - Assisted accounting in tracking down and ensuring all invoices and memos are paid and received.
 - Experienced with Microsoft Applications & Transportation Management Systems (TMS)
 
 **The Harris Product Group** - 12/7/2020 - 9/20/2021
 
 _Warehouse Associate_
-- Material handler & order fulfilment.
+- Material handler & order fulfillment.
 - Organized and led weekly inventory interstore transfers.
 - Operated high lift order picker, forklift and turret side loader.
 - Completed inventory cycle counts to ensure accurate inventory records.
